@@ -12,5 +12,5 @@ NODE 1 is a smart power socket offering remote control, smart scheduling, powerc
 - `Hardware/` — Schematics, PCB, Gerbers
 - `Firmware/` — ESP32 source code
 - `Enclosure/` — 3D model (STL) & renders
-- `Docs/` — Reports, Diagrams
-- `Images/` — Photos, Presentations
+- `Docs/` — Reports, Presentations
+- `Images/` — Photos, Diagrams
